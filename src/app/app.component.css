@@ -1,0 +1,9 @@
+.task_list {
+    max-width: 20%;
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    background-color: rgb(208, 203, 203);
+    margin-top: 5px;
+    padding: 5px;
+}
